@@ -1,0 +1,40 @@
+{
+  "name": "customtemplate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.1.2",
+    "@babel/preset-env": "^7.1.0",
+    "autoprefixer": "^9.2.1",
+    "bootstrap": "^4.1.3",
+    "browser-sync": "^2.26.3",
+    "cssnano": "^4.1.7",
+    "gulp": "^4.0.0",
+    "gulp-autoprefixer": "^6.0.0",
+    "gulp-babel": "^8.0.0",
+    "gulp-cached": "^1.1.1",
+    "gulp-clean": "^0.4.0",
+    "gulp-cleancss": "^0.2.2",
+    "gulp-concat": "^2.6.1",
+    "gulp-if": "^2.0.2",
+    "gulp-imagemin": "^4.1.0",
+    "gulp-notify": "^3.2.0",
+    "gulp-plumber": "^1.2.0",
+    "gulp-sass": "^4.0.2",
+    "gulp-sourcemaps": "^2.6.4",
+    "gulp-string-replace": "^1.1.2",
+    "gulp-svg-sprite": "^1.5.0",
+    "gulp-uglify": "^3.0.1",
+    "jquery": "^3.3.1",
+    "popper.js": "^1.14.4",
+    "uniqid": "^5.0.3",
+    "vinyl-ftp": "^0.6.1"
+  },
+  "dependencies": {}
+}

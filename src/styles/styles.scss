@@ -1,0 +1,12 @@
+@import "base/variables";
+@import "modules/sprite";
+
+body {
+    background: $mainColor;
+    display: grid;
+    display: flex;
+
+    p {
+        display: flex;
+    }
+}
